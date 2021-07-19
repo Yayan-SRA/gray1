@@ -1,0 +1,18 @@
+.table {
+	margin: auto;
+	text-align: center;
+
+	font-family: 'Times New Roman', Times, serif;
+}
+
+.table table thead th {
+	font-size: 20px;
+}
+
+.table table tbody td {
+	font-size: 20px;
+}
+
+.formdata {
+	margin: auto;
+}
